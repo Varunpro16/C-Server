@@ -1,0 +1,3 @@
+student1 pass1 STUDENT
+student2 pass11 STUDENT
+teacher1 pass2 TEACHER
